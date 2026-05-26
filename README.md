@@ -1,0 +1,2 @@
+# TinyML-based-Hybrid-underwater-communication-system-using-Acoustic-and-Optical-Li-Fi-Communication-
+A TinyML-based hybrid underwater communication system for IoUT applications that intelligently switches between acoustic and optical Li-Fi communication based on water conditions and data priority. The system improves energy efficiency, reduces communication delay, enables real-time anomaly detection, and supports reliable underwater monitoring 
