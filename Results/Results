@@ -1,1 +1,13 @@
+* The proposed TinyML-based hybrid underwater communication system demonstrated improved performance compared to traditional underwater communication methods.
+* The hybrid architecture intelligently switched between acoustic and optical Li-Fi communication based on environmental conditions and data priority.
+* The system achieved a high bandwidth efficiency of 90%, enabling faster underwater data transmission.
+* Energy efficiency improved significantly to 95% by reducing unnecessary continuous communication.
+* Communication reliability reached 98%, ensuring stable and secure underwater networking.
+* The proposed system achieved 92% communication speed and 96% latency reduction, making it suitable for real-time IoUT applications.
+* TinyML anomaly detection achieved high accuracy across multiple domains, including communication anomalies (97.21%), 
+  gas leakage detection (95.88%), earthquake anomaly detection (94.63%), and water pollution detection (93.46%).
+* The integration of TinyML enabled efficient edge-based monitoring with low computational overhead and rapid anomaly identification.
+* Solar-powered AUVs supported sustainable operation and efficient high-speed Li-Fi data transfer.
+* Overall, the proposed framework proved to be reliable, adaptive, energy-efficient, and suitable for underwater disaster monitoring, 
+  environmental surveillance, and smart ocean exploration applications.
 
